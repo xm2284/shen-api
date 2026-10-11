@@ -1,0 +1,17 @@
+{
+  "listen": "127.0.0.1",
+  "port": 3999,
+  "api_key": "sk-shen-0000",
+  "require_auth": false,
+  "debug": false,
+  "stream_delay_ms": 8,
+  "wrap_code_block": true,
+  "models": [
+    "神"
+  ],
+  "tail": "小明中转站 · 每日一蛙\nO(∩_∩)O哈哈~，神了~，\n要玩真模型请换其他分组，每天签到也可以领额度哦！！！",
+  "weights": {
+    "nailong": 6
+  },
+  "default_weight": 1
+}
